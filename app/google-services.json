@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644043974170",
+    "project_id": "projectbncc",
+    "storage_bucket": "projectbncc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644043974170:android:4e30fcc483c624e32b53a3",
+        "android_client_info": {
+          "package_name": "com.aldisubarja.projectbncc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644043974170-5gu30610uuervf3n3mva9sp05teo089n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypYoKcl_DEXgXyS7_yW92sKFJ_LXx_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644043974170-5gu30610uuervf3n3mva9sp05teo089n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

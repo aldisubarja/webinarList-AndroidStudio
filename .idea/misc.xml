@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/drawable/edittext_rounded.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/activity_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/fragment_description.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/fragment_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/fragment_register.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/Aldi/AndroidStudioProjects/ProjectBNCC/app/src/main/res/layout/webinar_card.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
